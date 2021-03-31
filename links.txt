@@ -1,0 +1,6 @@
+1:
+https://replit.com/@davidit33/boilerplate-mean-variance-standard-deviation-calculator#mean_var_std.py
+
+
+
+https://replit.com/@davidit33/boilerplate-demographic-data-analyzer-1#demographic_data_analyzer.py
